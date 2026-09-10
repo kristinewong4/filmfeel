@@ -2,12 +2,12 @@
 
 **[Try it live →](https://filmfeel.streamlit.app/)**
 
+<img src="docs/landing.png" alt="FilmFeel landing page" width="420" />
+
 FilmFeel recommends movies by _feeling_ instead of genre or keyword. Describe
 a mood (ex.: "a rainy city night," "quietly devastating," "strange and
 dreamlike") and it returns the films that match that atmosphere, each with a
 short, spoiler-free explanation of why it fits.
-
-<img src="docs/results.png" alt="FilmFeel results for &quot;cozy and warm&quot;" width="420" />
 
 ## How it works
 
@@ -20,6 +20,8 @@ short, spoiler-free explanation of why it fits.
    on tone and atmosphere, never plot or character details.
 3. **Presentation** — a Streamlit UI displays the poster, title, year, and
    explanation for each recommendation.
+
+<img src="docs/results.png" alt="FilmFeel results for &quot;cozy and warm&quot;" width="420" />
 
 ## Tech stack
 
