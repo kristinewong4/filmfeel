@@ -2,7 +2,7 @@
 
 **[Try it live →](https://filmfeel.streamlit.app/)**
 
-<img src="docs/landing.png" alt="FilmFeel landing page" width="420" />
+<img src="docs/landing.png" alt="FilmFeel landing page" width="500" />
 
 FilmFeel recommends movies by _feeling_ instead of genre or keyword. Describe
 a mood (ex.: "a rainy city night," "quietly devastating," "strange and
