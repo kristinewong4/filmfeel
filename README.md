@@ -1,9 +1,15 @@
 # FilmFeel
 
+**[Try it live →](https://filmfeel.streamlit.app/)**
+
 FilmFeel recommends movies by _feeling_ instead of genre or keyword. Describe
 a mood (ex.: "a rainy city night," "quietly devastating," "strange and
 dreamlike") and it returns the films that match that atmosphere, each with a
 short, spoiler-free explanation of why it fits.
+
+![FilmFeel landing screen](docs/landing.png)
+
+![FilmFeel results for "cozy and warm"](docs/results.png)
 
 ## How it works
 
