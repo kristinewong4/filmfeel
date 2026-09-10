@@ -1,0 +1,9 @@
+#required packages for the project
+sentence-transformers
+scikit-learn
+groq
+requests
+numpy
+python-dotenv
+streamlit
+pytest
