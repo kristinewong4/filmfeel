@@ -1,8 +1,8 @@
 # FilmFeel
 
-FilmFeel recommends movies by *feeling* instead of genre or keyword. Describe
-a mood — "a rainy city night," "quietly devastating," "strange and
-dreamlike" — and it returns the films that match that atmosphere, each with a
+FilmFeel recommends movies by _feeling_ instead of genre or keyword. Describe
+a mood (ex.: "a rainy city night," "quietly devastating," "strange and
+dreamlike") and it returns the films that match that atmosphere, each with a
 short, spoiler-free explanation of why it fits.
 
 ## How it works
