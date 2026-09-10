@@ -7,9 +7,7 @@ a mood (ex.: "a rainy city night," "quietly devastating," "strange and
 dreamlike") and it returns the films that match that atmosphere, each with a
 short, spoiler-free explanation of why it fits.
 
-![FilmFeel landing screen](docs/landing.png)
-
-![FilmFeel results for "cozy and warm"](docs/results.png)
+<img src="docs/results.png" alt="FilmFeel results for &quot;cozy and warm&quot;" width="420" />
 
 ## How it works
 
