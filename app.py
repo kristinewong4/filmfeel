@@ -370,7 +370,7 @@ st.markdown('<h1 class="ff-wordmark">Film<span>Feel</span></h1>', unsafe_allow_h
 st.markdown('<hr class="ff-rule">', unsafe_allow_html=True)
 st.markdown(
     '<p class="ff-lede">Tell us the mood you are in, not the genre you want. '
-    'We will find the films that sit in the same weather.</p>',
+    'We will find the top 3 films that fit the vibe.</p>',
     unsafe_allow_html=True,
 )
 
@@ -397,7 +397,7 @@ phrase = st.session_state.phrase.strip()
 
 if not phrase:
     st.markdown(
-        '<p class="ff-rest">Two hundred and fifty films<br>',
+        '<p class="ff-rest">Two hundred and fifty films waiting for you<br>',
         unsafe_allow_html=True,
     )
 else:
