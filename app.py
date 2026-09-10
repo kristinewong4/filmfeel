@@ -397,8 +397,7 @@ phrase = st.session_state.phrase.strip()
 
 if not phrase:
     st.markdown(
-        '<p class="ff-rest">Two hundred and fifty films, waiting quietly.<br>'
-        'Describe an evening and we will match it.</p>',
+        '<p class="ff-rest">Two hundred and fifty films<br>',
         unsafe_allow_html=True,
     )
 else:
